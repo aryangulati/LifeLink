@@ -12,9 +12,9 @@ function App() {
   return (
     <BrowserRouter>
     <div className="container">
-     <h3 className="m-3 d-flex justify-content-center">
+     {/* <h3 className="m-3 d-flex justify-content-center">
      Online Website For Donating Organs
-     </h3>
+     </h3> */}
 
      <Navigation/>
 
